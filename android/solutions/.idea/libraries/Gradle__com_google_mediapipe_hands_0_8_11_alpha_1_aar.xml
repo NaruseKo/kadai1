@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mediapipe:hands:0.8.11-alpha-1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d95c30859ac84f0a8444d3cf77d5b990/transformed/hands-0.8.11-alpha-1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fdbb144501cece81a91f7af4d54bec63/transformed/hands-0.8.11-alpha-1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fdbb144501cece81a91f7af4d54bec63/transformed/hands-0.8.11-alpha-1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fdbb144501cece81a91f7af4d54bec63/transformed/hands-0.8.11-alpha-1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
