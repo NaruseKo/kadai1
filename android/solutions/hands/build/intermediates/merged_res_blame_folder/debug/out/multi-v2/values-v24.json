@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.google.mediapipe.examples.hands-mergeDebugResources-19:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\2021036\\.gradle\\caches\\transforms-3\\7cd867039340a34087b1a214edf713cd\\transformed\\appcompat-1.3.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
